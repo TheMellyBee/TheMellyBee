@@ -6,7 +6,7 @@
       - LinkedIn: MellyBDev
       - Twitter: @TheMellyBee
       - Insta: @TheMellyBee
-      - Website: https://www.melanieburns.net
+      - Website: https://www.themellybee.com
 
 <!---
 TheMellyBee/TheMellyBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
