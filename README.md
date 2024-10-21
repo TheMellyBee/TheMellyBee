@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMellyBee
-- 👀 I’m Applied Science including AI, Machine Learning, Graph Databases, and Data Analytics working at Axon. 
+- 👀 I’m Applied Science and AI Architect passionate about AI, Machine Learning, Graph Databases, and Data Analytics working at 66degrees. 
 - 🌱 Always learning something new in the world of ML. 
 - 💞️ I’m looking to collaborate on climate change or ecological projects. Including working with researchers and non-profits.
 - 📫 How to reach me:
