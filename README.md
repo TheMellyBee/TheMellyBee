@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TheMellyBee
-- 👀 I’m Applied Science and AI Architect passionate about AI, Machine Learning, Graph Databases, and Data Analytics working at 66degrees. 
-- 🌱 Always learning something new in the world of ML. 
-- 💞️ I’m looking to collaborate on climate change or ecological projects. Including working with researchers and non-profits.
+- 👀 I’m a Senior AI/ML Architect, experienced in genAI, knowledge graphs, NLP, traditional ML, and data science.
+- 🗺️ Network Science is my jam... digital twins, graphRAG, graph db.. you name! I think they give critical insights we wouldn't otherwise see. 
+- 🌱 Always learning something new in AI/ML, fiber arts, etc. 
+- 💞️ I'm always open for collaborations particularly with non-profits in tasks that help others or learn about our planet. I've previously collabrated for Tech Against Trafficking. 
 - 📫 How to reach me:
       - LinkedIn: MellyBDev
       - Insta: @TheMellyBee
